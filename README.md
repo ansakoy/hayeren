@@ -3,5 +3,5 @@
 
 This repo is a collection of various grammar rules and specific paradigms, basically it's meant to be a cheatsheet for learning Armenian.
 ## Содержание | Contents
-[Полезные ссылки | Helpful links](https://github.com/ansakoy/hayeren/blob/master/helpful.md)
-[Существительное | Noun](https://github.com/ansakoy/hayeren/blob/master/noun.md)
+- [Полезные ссылки | Helpful links](https://github.com/ansakoy/hayeren/blob/master/helpful.md)
+- [Существительное | Noun](https://github.com/ansakoy/hayeren/blob/master/noun.md)
